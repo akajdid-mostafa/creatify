@@ -18,6 +18,7 @@
 - [Customization](#customization)
 - [Deployment](#deployment)
 - [Notes](#notes)
+- [Author & Contact](#author--contact)
 
 ---
 
@@ -162,3 +163,14 @@ Import the repository in Vercel and keep the defaults (Next.js preset, build com
 - This is a front-end marketing site: contact details (including `hello@creatify.com`) and the "Subscribe Now" buttons are placeholders.
 - Forms are presentational and do not send data; connect them to your preferred form/backend service before going live.
 - No license file is included yet — add one if you plan to open-source the code.
+
+---
+
+## Author & Contact
+
+Built and maintained by **Mostafa Akajdid**.
+
+- GitHub: [@akajdid-mostafa](https://github.com/akajdid-mostafa)
+- Email: mostafaakajdid6@gmail.com
+
+For questions, feedback, collaborations, or any further information, feel free to reach out.
